@@ -17,4 +17,5 @@ sudo apt-get install postgresql-15 postgresql-contrib-15 postgresql-server-dev-1
 
 sudo -u postgres psql
 ALTER USER postgres PASSWORD '1qazZAQ!';
+\q
 psql --version
